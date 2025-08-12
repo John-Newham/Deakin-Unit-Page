@@ -15,6 +15,7 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+<<<<<<< HEAD
 
 /*for the table*/
 th,td{
@@ -23,5 +24,14 @@ th,td{
   border-bottom: 1px solid #ddd;
   font-family: Arial;
 }
+=======
+th, td {
+padding: 8px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+font-family: Arial
+}
+tr:nth-child(odd) {background-color: #f2f2f2;}
+>>>>>>> 5e0c61895ae2d19bbc07e59fd8a09648c9fa228c
 
 tr:nth-child(odd){background-color: #f2f2f2;}
